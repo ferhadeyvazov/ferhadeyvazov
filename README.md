@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'am Ferhad Eyvazov:
 Hi there! I'm Ferhad, a Frontend Developer with 1.5+ years of experience. I've participated in development of more than 20 Website, along with several plugins and packages for Frontend Development.<br><br>I am currently working on the official website for Shopstore LLC, an Apple Authorized Distributor.
 
 
