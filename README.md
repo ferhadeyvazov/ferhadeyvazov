@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ferhadeyvazov&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ferhadeyvazov&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=ferhadeyvazov&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
