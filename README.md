@@ -9,7 +9,7 @@ Hi there! I'm Ferhad, a Frontend Developer with 2+ years of experience. I've par
 * 🌍  I'm based in Baku, Azerbaijan
 * 🖥️  See my portfolio at [MY Portfolio](http://ferhaddev.netlify.app/)
 * ✉️  You can contact me at [eyvazov.ferhad1997@gmail.com](mailto:eyvazov.ferhad1997@gmail.com)
-* 🚀  I'm currently working on [Bizimyol News](http://bizimyol.netlify.app/)
+* 🚀  I'm currently working on [Complex Admin Dashboard](https://github.com/ferhadeyvazov/Admin_Dashboard_App)
 * 🤝  I'm open to collaborating on Any type of Project
 
 ### Tech Stacks
