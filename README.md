@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhad Eyvazov</h1>
 <h3 align="center">A passionate Frontend | React developer</h3>
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/6b/39/df/6b39df1d371efb7c97fc10be931ed88a.gif"  />
+<img align="right" height="320" src="https://i.pinimg.com/originals/6b/39/df/6b39df1d371efb7c97fc10be931ed88a.gif"  />
 
 
 
