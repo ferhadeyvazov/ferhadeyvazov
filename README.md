@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farhad Eyvazov</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">A Passionate MERN Developer</h3>
 
 <img align="right" height="300" src="https://i.pinimg.com/originals/6b/39/df/6b39df1d371efb7c97fc10be931ed88a.gif"  />
 
 
 
-- 🔭 I’m currently working on [Complex Admin Dashboard](https://github.com/ferhadeyvazov/Admin_Dashboard_App)
+- 🔭 My latest project I've been working on [Complex Admin Dashboard](https://github.com/ferhadeyvazov/Admin_Dashboard_App)
 
 - 👨‍💻 All of my projects are available at [https://ferhaddev.netlify.app/](https://ferhaddev.netlify.app/)
 
