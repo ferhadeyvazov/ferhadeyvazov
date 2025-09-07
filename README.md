@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhad Eyvazov</h1>
-<h3 align="center">A Junior Java/React Developer</h3>
+<h3 align="center">A Strong Java/React Developer</h3>
 
 <img align="right" height="300" src="https://i.pinimg.com/originals/6b/39/df/6b39df1d371efb7c97fc10be931ed88a.gif"  />
 
